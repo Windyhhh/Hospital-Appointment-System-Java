@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🏥 Hospital-Appointment-System-Java
+# 医院预约系统 | Hospital-Appointment-System-Java
 
 ### Java Swing + SQLite hospital appointment & registration system.
 
